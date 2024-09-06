@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [zx-SD-Card_SPI.PrjPcb]
+   Generated File[zx-SD-Card_SPI.TXT]
+   Generated File[zx-SD-Card_SPI.LDP]
+   Generated File[zx-SD-Card_SPI.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:31:17 On 11.06.2024
